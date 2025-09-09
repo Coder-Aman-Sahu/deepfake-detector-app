@@ -10,7 +10,7 @@ pinned: false
 license: mit
 ---
 # Deepfake Image Detector
-
+**Live Demo:** [Check out the live application here](https://huggingface.co/spaces/A-man21/deepfake-detector-app)
 ## Overview
 This is a deepfake image detection application built using TensorFlow and Gradio. The app allows users to upload an image and check whether it is real or fake based on a trained deep learning model.
 
